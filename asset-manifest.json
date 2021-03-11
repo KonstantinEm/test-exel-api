@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/test-exel-api/static/css/main.698f33b7.chunk.css",
-    "main.js": "/test-exel-api/static/js/main.3bc522eb.chunk.js",
-    "main.js.map": "/test-exel-api/static/js/main.3bc522eb.chunk.js.map",
+    "main.js": "/test-exel-api/static/js/main.23b20e85.chunk.js",
+    "main.js.map": "/test-exel-api/static/js/main.23b20e85.chunk.js.map",
     "runtime-main.js": "/test-exel-api/static/js/runtime-main.12cbdfef.js",
     "runtime-main.js.map": "/test-exel-api/static/js/runtime-main.12cbdfef.js.map",
     "static/js/2.6c9fdad3.chunk.js": "/test-exel-api/static/js/2.6c9fdad3.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.12cbdfef.js",
     "static/js/2.6c9fdad3.chunk.js",
     "static/css/main.698f33b7.chunk.css",
-    "static/js/main.3bc522eb.chunk.js"
+    "static/js/main.23b20e85.chunk.js"
   ]
 }
